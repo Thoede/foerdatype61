@@ -11,7 +11,7 @@ Welcome, this is typing game website that build using js,css and html. I create 
 
 ## How to install
 
-1. **Clone repositori ini**:
+1. **Clone this repository**:
    ```bash
    git clone https://github.com/Thoede/foerdatype61.git
 
