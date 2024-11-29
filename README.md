@@ -15,9 +15,10 @@ Welcome, this is typing game website that build using js,css and html. I create 
    ```bash
    git clone https://github.com/Thoede/foerdatype61.git
 
-2. cd foerdatype61
+2. ```bash
+   cd foerdatype61
 
-3. open index.html or use localhost (live server)
+3. ```open index.html or use localhost (live server)```
 
 ## Reach me
 [tude18022008@gmail.com]
