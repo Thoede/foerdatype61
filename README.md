@@ -20,5 +20,3 @@ Welcome, this is typing game website that build using js,css and html. I create 
 
 3. ```open index.html or use localhost (live server)```
 
-## Reach me
-[tude18022008@gmail.com]
